@@ -12,6 +12,7 @@ $ pkg install python2
 $ pkg install figlet
 $ git clone https://github.com/achuzachu/Phisher.git
 $ cd Phisher
+$ bash ist.sh
 $ ls
 $ chmod +x *
 $ python social.py
@@ -31,6 +32,7 @@ apk add python2
 gem install toilet
 git clone https://github.com/achuzachu/Phisher.git
 cd Phisher
+bash ist.sh
 chmod +x *
 python social.py
 
@@ -45,6 +47,7 @@ To use the application, type in the following commands in GNU/Linux terminal.
 sudo apt install git
 git clone https://github.com/achuzachu/Phisher.git
 cd Phisher 
+bash ist.sh
 python social.py
 
 
@@ -67,6 +70,7 @@ sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/achuzachu/Phisher.git
 cd Phisher
+bash ist.sh
 python social.py
 
 Tool Installation successful
