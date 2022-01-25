@@ -44,7 +44,7 @@ To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
 git clone https://github.com/achuzachu/Phisher.git
-cd phisher 
+cd Phisher 
 python social.py
 
 
