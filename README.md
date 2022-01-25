@@ -78,9 +78,6 @@ Tool Installation successful
 
 ```
 
-</p>
-  ![20200808_160757](https://raw.githubusercontent.com/achuzachu/Phisher/blob/master/RedHackers.mp4.mp4)
-
 
 
 Support
